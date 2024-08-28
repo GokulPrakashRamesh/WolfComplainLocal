@@ -8,7 +8,7 @@ django-crispy-forms==1.14.0
 idna==3.4
 iniconfig==1.1.1
 packaging==21.3
-Pillow==9.2.0
+Pillow==10.1
 pluggy==1.0.0
 py==1.11.0
 pyparsing==3.0.9
