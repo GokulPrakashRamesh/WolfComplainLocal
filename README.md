@@ -68,7 +68,7 @@ This method requires:
 1. Install the entire source code from this git repository as a zip file and extract it.
 2. Install the necessary packages for the project using the following command - 
 ``` 
-pip install -r reqirements.txt
+pip install -r requirements.txt
 ```
 3. Setup the database using the following command - 
 ```
